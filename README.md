@@ -1,8 +1,3 @@
----
-tags: ruby, blocks, command line, video
-language: ruby
-format: video
----
 
 # Iteration Lecture Review
 [MP4](http://flatiron-videos.s3.amazonaws.com/web-0415/iteration_lecture_review.mp4)
