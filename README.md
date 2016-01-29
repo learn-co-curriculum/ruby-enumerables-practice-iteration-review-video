@@ -7,4 +7,4 @@
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-<a href='https://learn.co/lessons/iteration_lecture_review' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/iteration_lecture_review' title='Iteration Lecture Review'>Iteration Lecture Review</a> on Learn.co and start learning to code for free.</p>
